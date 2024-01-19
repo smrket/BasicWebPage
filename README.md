@@ -1,2 +1,2 @@
 # BasicWebPage
-Simple Dynamic Web page "opensource".
+Simple Basic Web page "opensource".
